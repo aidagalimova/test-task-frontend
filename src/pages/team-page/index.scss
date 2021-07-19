@@ -1,0 +1,30 @@
+.team-info {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+    margin-top: 20px;
+    width: 80%;
+    margin: 4px 20px;
+    padding-left: 25px;
+    .logo {
+        
+        display: inline-block;
+        width: 50px;
+    }
+    .name {
+        color: #1c221c;
+        display: inline-block;
+        font-weight: bold;
+        padding-left: 10px;
+    }
+    .info {
+        color: #1c221c;
+        display: inline-block;
+        font-weight: bold; 
+        padding-left: 10px;
+    }
+}
+.year-picker {
+    margin-left: 20px;
+    display: inline-block;
+}
