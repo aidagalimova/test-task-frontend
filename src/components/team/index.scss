@@ -1,0 +1,30 @@
+.box {
+    background-color: white;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 8px 20px;
+    width: 20%;
+    text-align: center;
+    padding-left: 10px;
+    cursor: pointer;
+    .logo {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-top: 7px; 
+        margin-bottom: 7px;
+        text-align-last: center;
+        margin-right: 10px;
+    }
+    .name {
+        display: inline-block;
+        font-weight: bold;
+        margin-top: 3px;
+        margin-bottom: 0px;
+        text-align-last: center;
+    }
+    .info {
+        display: inline-block;
+    }
+}

@@ -1,0 +1,32 @@
+.league {
+    background-color: white;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 8px 20px;
+    width: 25%;
+    // text-align: left;
+    padding-left: 10px;
+    cursor: pointer;
+    @media (max-width: 800px) {
+        width: 40%;
+        margin: 3px 3px;
+    }
+    .img {
+        width: 90px;
+        height: 90px;
+        margin-top: 7px;
+        text-align-last: center;
+    }
+    .name {
+        font-weight: bold;
+        margin-top: 3px;
+        margin-bottom: 0px;
+        text-align-last: center;
+    }
+    .info {
+        font-size: 15px;
+        font-weight: 400;
+        margin-bottom: 0px;
+    }
+}

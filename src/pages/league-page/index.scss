@@ -1,0 +1,31 @@
+.league-info {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+    //text-align: -webkit-center;
+    margin-top: 20px;
+    width: 80%;
+    margin: 4px 20px;
+    .logo {
+        display: inline-block;
+        width: 50px;
+        padding-right: 10px;
+    }
+    .name {
+        color: #1c221c;
+        display: inline-block;
+        font-weight: bold;
+    }
+    .info {
+        color: #1c221c;
+        display: inline-block;
+        font-weight: bold;
+    }
+}
+.year-picker {
+    margin-left: 20px;
+    display: inline-block;
+}
+.all-btn {
+    display: inline-block;
+}

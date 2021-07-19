@@ -1,0 +1,46 @@
+.teams-league-info {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+    margin-top: 20px;
+    width: 80%;
+    margin: 4px 20px;
+    .logo {
+        display: inline-block;
+        width: 50px;
+        padding-right: 10px;
+    }
+    .name {
+        color: #1c221c;
+        display: inline-block;
+        font-weight: bold;
+    }
+    .info {
+        color: #1c221c;
+        display: inline-block;
+        font-weight: bold;
+    }
+}
+
+.teams-title {
+    margin-left: 20px;
+    font-weight: bold;
+}
+.team-search {
+    margin-left: 20px;
+    padding-bottom: 10px;
+    .search-text {
+        margin-top: 10px;
+    }
+    .search-form {
+        width: 37%;
+        display: inline-block;
+        .search {
+            width: 60%;
+            display: inline-block;
+        }
+        .btn {
+            display: inline-block;
+        }
+    }
+}
